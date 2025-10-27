@@ -5,7 +5,7 @@ A comprehensive event management application built with Flutter that helps users
 ## 🚀 Features
 
 - 📱 **Event Management** - Create and manage multiple event types (Wedding, Birthday, Engagement, Graduation Party, Farewell)
-- 📸 **Image Upload** - Upload custom images for your events using the built-in image picker
+- 📸 **Image Upload** - Upload custom images for your events using the built-in image pickers
 - 👥 **Guest Management** - Track and manage guest lists with confirmation status
 - ✅ **Task Management** - Organize to-do lists for each event with completion tracking
 - 💰 **Budget Tracking** - Monitor expenses and manage budgets for each event
